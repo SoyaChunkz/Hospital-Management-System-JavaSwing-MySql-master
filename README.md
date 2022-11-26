@@ -1,2 +1,17 @@
-# Hospital-Management-System-JavaSwing-MySql-master
-We have made this as our mini project. The System can be entered using a username and password.  It is accessible either by an administrator or receptionist. Only they can add  data into the database. The data can be retrieved easily. 
+# Project: – Hospital Management System
+### Hospital management system is a java project. Here, in this system, you can perform the actions that you usually see in the hospital You can do the following features:
+
+- Login
+- Add Patient
+- Add Doctor
+- Add Room
+- Add Ward
+- Add User
+- Generate Bills
+
+
+**Copyright (c)** 
+
+## Go Through This Site Then You Will Know About This Site Properly.
+
+**This is an Open source project. You can fork it.**
